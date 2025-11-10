@@ -81,7 +81,7 @@ class CyberSecurityResearcher:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zer0crypt02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=zer0crypt02&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zer0crypt02&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak"/>
 </div>
 
 <br/>
