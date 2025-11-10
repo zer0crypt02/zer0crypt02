@@ -81,7 +81,7 @@ class CyberSecurityResearcher:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zer0crypt02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+  <img width="49%" height="195" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B2cHo4cWU3YnVoOTN2Y3J1bmVzbGhya3RpcmU5NmJzemhoN3R0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif" alt="Coding GIF"/>
 </div>
 
 <br/>
